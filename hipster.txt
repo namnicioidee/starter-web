@@ -1,2 +1,11 @@
-In Microsoft Windows, software that relies on Windows Side-by-Side (WinSxS) needs an application manifest, which is an XML document that is either embedded in an executable file or contained in a separate XML file that accompanies it. It bears name, version, trust information, privileges required for execution and dependencies on other components.[1]
+asgsdfgdsfhdshadfhdjghkjhjgjh lkdsgkjahkljghlkjh  :doodle {
+    @grid: 126x1 / 650px;
+    @shape: drop;
+    background:
+      @m2(radial-gradient(#fff 50%, transparent calc(50% + 1px))
+        @pn(200px 478px, 192px 469px) / @pn(80px 32px, 64px 32px)
+        no-repeat),
+      linear-gradient(10deg, #fff 26.5%, transparent calc(26.5% + 1px)),
+      linear-gradient(205deg, #5256bd 56%, #954ccc);
+  }In Microsoft Windows, software that relies on Windows Side-by-Side (WinSxS) needs an application manifest, which is an XML document that is either embedded in an executable file or contained in a separate XML file that accompanies it. It bears name, version, trust information, privileges required for execution and dependencies on other components.[1]
 Comments are different from printing to the screen, when we use System.out.println(). These comments won’t show up in our terminal, they’re only for people who read our code in the text editor.
