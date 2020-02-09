@@ -1,1 +1,2 @@
 In Microsoft Windows, software that relies on Windows Side-by-Side (WinSxS) needs an application manifest, which is an XML document that is either embedded in an executable file or contained in a separate XML file that accompanies it. It bears name, version, trust information, privileges required for execution and dependencies on other components.[1]
+Comments are different from printing to the screen, when we use System.out.println(). These comments won’t show up in our terminal, they’re only for people who read our code in the text editor.
