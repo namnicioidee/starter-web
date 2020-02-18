@@ -1,3 +1,4 @@
-favicon.ico
+*.orig
 *.log
 log/
+.DS_Store
