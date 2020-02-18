@@ -17,3 +17,6 @@ Sample website with plenty of files for demos
 ##this is just confusing
 
 ##deplayment
+
+### Copyright
+Git training
