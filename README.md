@@ -3,7 +3,7 @@
 This repository is for showing how Git and GitHub work
 
 ## Purpose
-## Introduction. ADding a line as example
+## Introduction. ADding a line as example, than more changes from myfeature branch too
 ##deplyment
 
 new editing
