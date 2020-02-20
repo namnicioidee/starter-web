@@ -19,6 +19,4 @@ Sample website with plenty of files for demos
 ##deplayment
 
 ### Copyright
-Git training
-
-how to contribute
+all rights reserved
